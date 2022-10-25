@@ -1,4 +1,7 @@
 # PATİKA- SQL- ÖDEV-1
+Patika linkim https://github.com/ismetcanbyk/patikaSQL/blob/master/%C3%B6dev1.sql
+
+
  SELECT title , description FROM film ;  
  ![github](1..png)  
  SELECT * FROM film WHERE length > 60 AND length < 75 ;  
