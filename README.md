@@ -1,6 +1,5 @@
 # PATİKA- SQL- ÖDEV-1
-Patika linkim https://github.com/ismetcanbyk/patikaSQL/blob/master/%C3%B6dev1.sql
-
+Patika linkim https://app.patika.dev/seciltombak
 
  SELECT title , description FROM film ;  
  ![github](1..png)  
