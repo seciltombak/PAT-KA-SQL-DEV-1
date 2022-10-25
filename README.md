@@ -8,4 +8,4 @@
  SELECT * FROM customer WHERE first_name = 'Mary';  
  https://github.com/seciltombak/PAT-KA-SQL-DEV-1/blob/main/4..png  
  SELECT * FROM film WHERE  length < 50 AND  NOT (rental_rate = '2.99' or rental_rate = '4.99');  
- https://github.com/seciltombak/PAT-KA-SQL-DEV-1/blob/main/5..png  
+ [https://github.com/seciltombak/PAT-KA-SQL-DEV-1/blob/main/5..png  ](https://raw.githubusercontent.com/seciltombak/PAT-KA-SQL-DEV-1/main/5..png)
